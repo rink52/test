@@ -10,7 +10,3 @@ with open("C:\\Users\\rink\\Downloads\\Логи\\logs\\syncdb-2023-10-24.log") a
         #     count = ''.join(filter(str.isdigit, srting[first_id:first_id+5]))
         #     if int(count) > 59530:
         #         print(count)
-
-# добавил коммент
-$$%
-sda
